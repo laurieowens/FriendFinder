@@ -45,6 +45,18 @@ module.exports = function(app) {
         // }
     });
 
+
+
+
+    // var a = [5, 1, 4, 4, 5, 1, 2, 5, 4, 1],
+    //     b = [3, 2, 6, 4, 5, 1, 2, 5, 4, 1],
+    //     c = a.map(function(v, i) {
+    //         return Math.abs(v - b[i]);
+    //     });
+    // document.write('<pre>' + JSON.stringify(c, 0, 4) + '</pre>');
+
+
+
     // ---------------------------------------------------------------------------
     // I added this below code so you could clear out the table while working with the functionality.
     // Don"t worry about it!
